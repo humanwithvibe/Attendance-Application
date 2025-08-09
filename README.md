@@ -1,36 +1,3 @@
-Skip to content
-Navigation Menu
-humanwithvibe
-Attendance-Applicat
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Comparing changes
-Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also  or learn more about diff comparisons.
- 
-...
- 
- 1 commit
- 1 file changed
- 1 contributor
-Commits on Aug 7, 2025
-Create README.md
-
-@humanwithvibe
-humanwithvibe authored 3 days ago
- Showing  with 122 additions and 0 deletions.
- 122 changes: 122 additions & 0 deletions122  
-README.md
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,122 @@
 # 📱 Attendance Application (Mobile App)
 
 A simple and efficient mobile application for managing attendance, built using **React Native** with **Expo**.
@@ -153,4 +120,3 @@ Pull requests are welcome! For major changes, please open an issue first.
 👤 Author
 
 Saurabh Singh – GitHub
-
