@@ -153,15 +153,4 @@ Pull requests are welcome! For major changes, please open an issue first.
 👤 Author
 
 Saurabh Singh – GitHub
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-Comparing b241460d9885a26ffaf617d70878351844c36850...a4b134a698c75adf8ca0286a589732073350e467 · humanwithvibe/Attendance-Applicat
+
